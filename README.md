@@ -20,11 +20,11 @@ The ChestX-ray14 dataset consists of 112,120 frontal chest X-ray images from 30,
 # Evaluation:
   - Evaluate the performance of the saved model on the test dataset.
 # Comparsion
-1. Wang et al.: 0.7381
-2. Yao et al.: 0.8027
-3. CheXNet: 0.8414
-4. Ours: 0.8454 and
-Our Micro-Average ROC AUC Score: 0.8878
+- Wang et al.: 0.7381
+-  Yao et al.: 0.8027
+-  CheXNet: 0.8414
+-  Ours: 0.8454 and
+-  Our Micro-Average ROC AUC Score: 0.8878
 
 
 | Pathology          | [Wang et al.](https://arxiv.org/abs/1705.02315) | [Yao et al.](https://arxiv.org/abs/1710.10501) | [CheXNet](https://arxiv.org/abs/1711.05225) | Ours                     |
