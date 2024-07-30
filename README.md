@@ -15,9 +15,9 @@ Data Preparation:
   - Split the dataset into training (70%), validation (10%), and testing (20%) subsets, ensuring no overlap between them.
   - Standardize the data using the mean and standard deviation of ImageNet.
 Model Development:
-  Create a DenseNet121 model pre-trained with Keras.
-  Employ the Adam optimizer with an initial learning rate of 1e-3, decaying by a factor of 10 every 2 epochs.
-  Save the model with the lowest validation loss during training.
+  -Create a DenseNet121 model pre-trained with Keras.
+  -Employ the Adam optimizer with an initial learning rate of 1e-3, decaying by a factor of 10 every 2 epochs.
+  -Save the model with the lowest validation loss during training.
 Evaluation:
   Evaluate the performance of the saved model on the test dataset.
 # Comparsion
