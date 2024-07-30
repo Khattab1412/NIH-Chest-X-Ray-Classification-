@@ -11,7 +11,7 @@ The ChestX-ray14 dataset consists of 112,120 frontal chest X-ray images from 30,
 3 Verify Paths: Ensure all file paths in the code point to the downloaded data directory.
 4 Specify GPUs (Optional): If using multiple GPUs for training, specify the desired GPU IDs in the code.
 # Comparsion
-| Pathology          | [Wang et al.] (https://arxiv.org/abs/1705.02315) | [Yao et al.](https://arxiv.org/abs/1710.10501) | [CheXNet](https://arxiv.org/abs/1711.05225) | Ours                     |
+| Pathology          | [Wang et al.](https://arxiv.org/abs/1705.02315) | [Yao et al.](https://arxiv.org/abs/1710.10501) | [CheXNet](https://arxiv.org/abs/1711.05225) | Ours                     |
 |--------------------|-------------|------------|---------|--------------------------|
 | Atelectasis        | 0.716       | 0.772      | 0.8094  | 0.8237                   |
 | Cardiomegaly       | 0.807       | 0.904      | 0.9248  | 0.9135                   |
