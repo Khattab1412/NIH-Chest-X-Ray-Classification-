@@ -27,6 +27,8 @@ The ChestX-ray14 dataset consists of 112,120 frontal chest X-ray images from 30,
 | Fibrosis           | 0.769       | 0.767      | 0.8047  | 0.8182                   |
 | Pleural Thickening | 0.708       | 0.765      | 0.8062  | 0.7974                   |
 | Hernia             | 0.767       | 0.914      | 0.9164  | 0.9436                   |
+
+
 . Wang et al.: 0.7381
 . Yao et al.: 0.8027
 . CheXNet: 0.8414
