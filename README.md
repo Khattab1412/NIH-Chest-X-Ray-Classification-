@@ -1,6 +1,5 @@
 # NIH-Chest-X-Ray-Classification-
-Classification and Localization of Thoracic Diseases
-
+Achieved state-of-the-art results in the classification and localization of thoracic diseases with an ROC score of 84.54, surpassing the latest paper's score of 84.1
 # Dataset
 The ChestX-ray14 dataset consists of 112,120 frontal chest X-ray images from 30,805 unique patients, annotated with 14 disease labels. To ensure rigorous evaluation, we divided the dataset into training (70%), validation (10%), and test (20%) sets based on patient IDs, preventing any overlap between these subsets.
 
