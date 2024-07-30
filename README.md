@@ -12,8 +12,8 @@ The ChestX-ray14 dataset consists of 112,120 frontal chest X-ray images from 30,
 4. Specify GPUs (Optional): If using multiple GPUs for training, specify the desired GPU IDs in the code.
 # Methodology
 Data Preparation:
-  Split the dataset into training (70%), validation (10%), and testing (20%) subsets, ensuring no overlap between them.
-  Standardize the data using the mean and standard deviation of ImageNet.
+  .Split the dataset into training (70%), validation (10%), and testing (20%) subsets, ensuring no overlap between them.
+  .Standardize the data using the mean and standard deviation of ImageNet.
 Model Development:
   Create a DenseNet121 model pre-trained with Keras.
   Employ the Adam optimizer with an initial learning rate of 1e-3, decaying by a factor of 10 every 2 epochs.
