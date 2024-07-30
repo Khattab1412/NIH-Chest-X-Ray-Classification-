@@ -11,4 +11,5 @@ The ChestX-ray14 dataset consists of 112,120 frontal chest X-ray images from 30,
 3 Verify Paths: Ensure all file paths in the code point to the downloaded data directory.
 4 Specify GPUs (Optional): If using multiple GPUs for training, specify the desired GPU IDs in the code.
 # Comparsion
+/table
 
